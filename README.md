@@ -1,5 +1,5 @@
 # Hey, I'm Bartkk.
-### Currently studying in a techincal high school
+### Currently studying in a techincal high school in Poland.
 
 #### What I use:
  - GoLang
